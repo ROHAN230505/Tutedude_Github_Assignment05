@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15c1308d-9ad6-40d9-82c5-5f7bd2d3d750" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_assignment_02/ASSIGNMENT_02Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_assignment_02/ASSIGNMENT_02Task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_assignment_02/ASSIGNMENT_02Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_assignment_02/ASSIGNMENT_02Task02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
     "Python.ASSIGNMENT_02Task01.executor": "Run",
     "Python.ASSIGNMENT_02Task02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
